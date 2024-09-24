@@ -1,1 +1,1 @@
-# hackbio-cancer-internship
+# HackBio-cancer-internship
